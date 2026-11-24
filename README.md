@@ -30,3 +30,7 @@ El archivo de entrada es `index.html`. Para desplegarlo, conecta este repositori
 
 - **V1:** primera versión de evaluación; no modificar desde este repositorio.
 - **V2:** línea de desarrollo independiente para incorporar texto narrativo personalizado.
+
+## Actualización
+
+Se registra este cambio para iniciar la detección automática de actualizaciones del repositorio en la plataforma de despliegue.
